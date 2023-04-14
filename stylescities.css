@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    background-color: pink;
+    color: palevioletred;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: 'Playfair Display', serif;
+    margin: auto;
+    max-width: 750px;
+    text-align: center;
+}
+
+.gorod {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
