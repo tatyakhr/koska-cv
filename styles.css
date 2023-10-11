@@ -83,7 +83,7 @@ ul {
     flex-direction: column;
 }
 
-.testtable {
+.testtable td th {
     border-style: dotted;
     border-color: black;
     }
