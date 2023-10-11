@@ -87,3 +87,8 @@ ul {
     border-style: dotted;
     border-color: black;
     }
+
+.testtable {
+    border: none;
+    }
+
