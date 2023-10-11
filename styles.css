@@ -85,4 +85,5 @@ ul {
 
 .testtable td, tr {
     border: 1px solid gray;
+    border-collapse: collapse;
     }
