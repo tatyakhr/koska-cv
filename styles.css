@@ -83,11 +83,6 @@ ul {
     flex-direction: column;
 }
 
-.testtable {
-    border-collapse: collapse;
-    border-style: hidden;
-    }
-
 .testtable td, tr {
     border-color: gray;
     }
