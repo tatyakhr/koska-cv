@@ -83,12 +83,11 @@ ul {
     flex-direction: column;
 }
 
-.testtable td, tr {
-    border-style: dotted;
-    border-color: black;
-    }
-
 .testtable {
-    border: none;
+    border-collapse: collapse;
+    border-style: hidden;
     }
 
+.testtable td, tr {
+    border-color: gray;
+    }
