@@ -82,3 +82,7 @@ ul {
     align-items: center;
     flex-direction: column;
 }
+
+#time_management_quiz_form {
+    border-style: dotted;
+    }
