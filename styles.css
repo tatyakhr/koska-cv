@@ -83,6 +83,7 @@ ul {
     flex-direction: column;
 }
 
-#time_management_quiz_form {
+.testtable {
     border-style: dotted;
+    border-color: black;
     }
