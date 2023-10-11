@@ -84,5 +84,5 @@ ul {
 }
 
 .testtable td, tr {
-    border-color: gray;
+    border: 1px solid gray;
     }
